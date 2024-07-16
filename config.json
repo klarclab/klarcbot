@@ -1,0 +1,31 @@
+{
+    "token": "token",
+    "keyword": "eg. ur name (marean,marius)",
+    "default_replies": [
+        "custom reply when someone says that word",
+        "custom reply when someone says that word",
+        "custom reply when someone says that word",
+        "custom reply when someone says that word",
+        "custom reply when someone says that word",
+        "custom reply when someone says that word",
+        "custom reply when someone says that word"
+    ],
+    "targets": {
+        "ID1": [
+            "**reply**",
+            "**reply**",
+            "**reply**"
+        ],
+        "ID2": [
+            "**reply**",
+            "**reply**",
+            "**reply**"
+        ],
+        "ID3": [
+            "**reply**",
+            "**reply**",
+            "**reply**"
+        ]
+    },
+    "mention_format": "{reply} ||<@{user_id}>||"
+}
