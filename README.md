@@ -4,5 +4,3 @@ basically some kind of discord **selfbot** made by me which will target the **us
 
 # (also added a feature, when someone says a specific word it will reply with a **custom message** you will set in **config.json**)
 
-
-https://pecos.hvh.rocks/yykxjj5e.png
